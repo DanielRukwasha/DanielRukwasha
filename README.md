@@ -9,7 +9,7 @@ Building at the intersection of AI, data, and fintech.
 ###  About me
 - From the Democratic Republic of Congo 🇨🇩
 - Focused on fintech, data science, and AI applications
-- Founder of Urafiki Fellowship — education & peace in eastern DRC
+- Founder of Urafiki Fellowship education & peace in eastern DRC
 
 ###  Stack
 Python · SQL · Streamlit · scikit-learn · pandas · FastAPI
