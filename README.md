@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Daniel Rukwasha 
 
-<!--
-**DanielRukwasha/DanielRukwasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Quantitative Economics student at Berea College, Kentucky.
+Building at the intersection of AI, data, and fintech.
 
-Here are some ideas to get you started:
+###  Currently building
+- Financial AI Dashboard (Python, Streamlit, Anthropic API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About me
+- From the Democratic Republic of Congo 🇨🇩
+- Focused on fintech, data science, and AI applications
+- Founder of Urafiki Fellowship — education & peace in eastern DRC
+
+###  Stack
+Python · SQL · Streamlit · scikit-learn · pandas · FastAPI
+
+###  Contact
+https://www.linkedin.com/in/daniel-rukwasha-56b094298/
+danielrukwasha@gmail.com
